@@ -1,7 +1,7 @@
-Multi-functional cheat for apex
+Multi-functional cheat for $NAME
 ================================
 
-apex cheat / hack is an advanced, undetected cheat developed specifically for apex game. It provides users with a complete toolkit for dominating gameplay while maintaining full customization and stability. With regular updates and a focus on stealth, apex works seamlessly on the latest versions of the game and is compatible with most system setups.
+$NAME cheat / hack is an advanced, undetected cheat developed specifically for $NAME game. It provides users with a complete toolkit for dominating gameplay while maintaining full customization and stability. With regular updates and a focus on stealth, $NAME works seamlessly on the latest versions of the game and is compatible with most system setups.
 
 Status
 ------
@@ -13,7 +13,7 @@ Status
 Key Features
 ------------
 
-The following list highlights some of the core functionalities of apex. Additional hidden or advanced features are available inside the cheat interface.
+The following list highlights some of the core functionalities of $NAME. Additional hidden or advanced features are available inside the cheat interface.
 
 - 🎯 **Aimbot**\
   Customizable auto-aim system with FOV control, smoothing, visibility checks, and bone targeting.
