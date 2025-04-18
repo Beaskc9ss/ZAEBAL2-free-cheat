@@ -1,7 +1,7 @@
 Download
 ========
 
-**[DOWNLOAD](#)**
+`DOWNLOAD <https://your-download-link.com>`_
 
 Instructions
 ------------
@@ -11,3 +11,4 @@ Instructions
 3. Run the launcher executable.
 4. Start the game.
 5. Press `Insert` to open the in-game cheat menu.
+
