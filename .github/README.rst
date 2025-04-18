@@ -42,6 +42,7 @@ The following list highlights some of the core functionalities of $NAME. Additio
 - 🖥 **Stream Proof**\
   Hides all visuals from recording and streaming software.
 
+
 Installation Guide
 ------------------
 
