@@ -1,10 +1,8 @@
-Download
+Download Instructions
 ========
 
-`DOWNLOAD <https://your-download-link.com>`_
+`CLICK TO DOWNLOAD <https://your-download-link.com>`_
 
-Instructions
-------------
 
 1. Download the archive from the link above.
 2. Extract the contents to a folder of your choice.
