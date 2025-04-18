@@ -15,31 +15,31 @@ Key Features
 
 The following list highlights some of the core functionalities of $NAME. Additional hidden or advanced features are available inside the cheat interface.
 
-- 🎯 **Aimbot**\
+- 🎯 **Aimbot**  
   Customizable auto-aim system with FOV control, smoothing, visibility checks, and bone targeting.
 
-- 🔫 **Triggerbot**\
+- 🔫 **Triggerbot**  
   Automatically fires when your crosshair is over an enemy.
 
-- 👁 **ESP / Wallhack**\
+- 👁 **ESP / Wallhack**  
   Shows enemies, teammates, and items through walls with full filtering and distance control.
 
-- 🌈 **Glow / Chams**\
+- 🌈 **Glow / Chams**  
   Highlights models with color overlays based on visibility and team.
 
-- 🧠 **RCS / No Recoil / No Spread**\
+- 🧠 **RCS / No Recoil / No Spread**  
   Neutralizes recoil and bullet spread for consistent shooting.
 
-- 🐇 **BunnyHop / Auto-Strafe**\
+- 🐇 **BunnyHop / Auto-Strafe**  
   Automates jump timing and strafe movement for fast navigation.
 
-- 🧼 **Skin/Weapon Changer**\
+- 🧼 **Skin/Weapon Changer**  
   Apply weapon skins or gear changes instantly.
 
-- 🎮 **Custom Crosshair / FOV Changer**\
+- 🎮 **Custom Crosshair / FOV Changer**  
   Change in-game field of view and crosshair style.
 
-- 🖥 **Stream Proof**\
+- 🖥 **Stream Proof**  
   Hides all visuals from recording and streaming software.
 
 
