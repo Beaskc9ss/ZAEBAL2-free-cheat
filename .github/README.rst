@@ -15,31 +15,31 @@ Key Features
 
 The following list highlights some of the core functionalities of $NAME. Additional hidden or advanced features are available inside the cheat interface.
 
-- 🔄 **Auto-Farm**  
+- 🌾 **Auto-Farm**  
   Automates resource gathering, experience farming, and quest progression.
 
-- 🔄 **Teleport / Map Hack**  
+- 📍 **Teleport / Map Hack**  
   Instantly move to any location or reveal hidden map areas.
 
-- 🔄 **Speed Hack**  
+- ⚡ **Speed Hack**  
   Increase movement speed for faster navigation.
 
-- 🔄 **Resource Editor**  
+- 💰 **Resource Editor**  
   Modify in-game currencies, items, and character stats.
 
-- 🔄 **God Mode / Unlimited Health**  
+- 🛡️ **God Mode / Unlimited Health**  
   Prevent character death in offline or mod-enabled scenarios.
 
-- 🔄 **Macro / Auto-Action**  
+- 🤖 **Macro / Auto-Action**  
   Automate repetitive tasks such as crafting, trading, and combat rotations.
 
-- 🔄 **Script Loader**  
+- 📜 **Script Loader**  
   Support for custom scripts or plugins (Lua, JS, Python, etc.).
 
-- 🔄 **UI Customization**  
+- 🎨 **UI Customization**  
   Custom overlays, crosshair, HUD modifications.
 
-- 🔄 **Stream Proof**  
+- 🚫🎥 **Stream Proof**  
   Hides all cheat visuals from streaming or recording software.
 
 Installation Guide
