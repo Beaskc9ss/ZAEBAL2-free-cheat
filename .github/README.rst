@@ -1,14 +1,14 @@
-# Multi-functional cheat for  \$NAME
+Multi-functional cheat for  \$NAME
 
 \$NAME is an advanced, undetected cheat developed specifically for first-person and third-person shooter games. It provides users with a complete toolkit for dominating gameplay while maintaining full customization and stability. With regular updates and a focus on stealth, \$NAME works seamlessly on the latest versions of the game and is compatible with most system setups.
 
-## Status
+Status
 
 - ✅ Fully undetectable by major anti-cheat systems.
 - ✅ Active anti-cheat bypass ensures ongoing stealth.
 - ✅ Regular internal testing ensures compatibility with current anti-cheat updates.
 
-## Key Features
+Key Features
 
 The following list highlights some of the core functionalities of \$NAME. Additional hidden or advanced features are available inside the cheat interface.
 
@@ -39,7 +39,7 @@ The following list highlights some of the core functionalities of \$NAME. Additi
 - 🖥 **Stream Proof**\
   Hides all visuals from recording and streaming software.
 
-## Installation Guide
+Installation Guide
 
 .. list-table::
 \:widths: 60 40
@@ -49,6 +49,6 @@ The following list highlights some of the core functionalities of \$NAME. Additi
   - `DOWNLOAD <.github/Download.rst>`\_
   - Installation instructions for \$NAME
 
-## Disclaimer
+Disclaimer
 
 This software is provided for educational and demonstration purposes only. The developers do not encourage cheating in online games and are not responsible for misuse.
