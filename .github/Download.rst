@@ -1,4 +1,4 @@
-Download
+Download Instructions
 ========
 
 .. raw:: html
@@ -6,7 +6,7 @@ Download
    <a href="#" style="display: inline-block; padding: 10px 20px; font-size: 16px; font-weight: bold; color: white; background-color: #2c974b; border-radius: 6px; text-decoration: none;">DOWNLOAD</a>
 
 
-Instructions
+
 ------------
 
 1. Download the archive from the link above.
