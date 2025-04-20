@@ -1,7 +1,7 @@
 Multi-functional cheat for $NAME
 ================================
 
-$NAME cheat / hack is a versatile, undetected tool developed specifically for $NAME. It provides an extensive suite of features to streamline gameplay, automate repetitive tasks, and enhance performance while maintaining full customization and stability. Regular updates and focused stealth ensure compatibility with the latest game versions and anti-cheat measures.
+$NAME cheat / hack is an advanced, undetected cheat developed specifically for $NAME game. It provides users with a complete toolkit for dominating gameplay while maintaining full customization and stability. With regular updates and a focus on stealth, $NAME works seamlessly on the latest versions of the game and is compatible with most system setups.
 
 Status
 ------
@@ -15,32 +15,33 @@ Key Features
 
 The following list highlights some of the core functionalities of $NAME. Additional hidden or advanced features are available inside the cheat interface.
 
-- 🌾 **Auto-Farm**  
-  Automates resource gathering, experience farming, and quest progression.
+- 🎯 **Aimbot**  
+  Customizable auto-aim system with FOV control, smoothing, visibility checks, and bone targeting.
 
-- 📍 **Teleport / Map Hack**  
-  Instantly move to any location or reveal hidden map areas.
+- 🔫 **Triggerbot**  
+  Automatically fires when your crosshair is over an enemy.
 
-- ⚡ **Speed Hack**  
-  Increase movement speed for faster navigation.
+- 👁 **ESP / Wallhack**  
+  Shows enemies, teammates, and items through walls with full filtering and distance control.
 
-- 💰 **Resource Editor**  
-  Modify in-game currencies, items, and character stats.
+- 🌈 **Glow / Chams**  
+  Highlights models with color overlays based on visibility and team.
 
-- 🛡️ **God Mode / Unlimited Health**  
-  Prevent character death in offline or mod-enabled scenarios.
+- 🧠 **RCS / No Recoil / No Spread**  
+  Neutralizes recoil and bullet spread for consistent shooting.
 
-- 🤖 **Macro / Auto-Action**  
-  Automate repetitive tasks such as crafting, trading, and combat rotations.
+- 🐇 **BunnyHop / Auto-Strafe**  
+  Automates jump timing and strafe movement for fast navigation.
 
-- 📜 **Script Loader**  
-  Support for custom scripts or plugins (Lua, JS, Python, etc.).
+- 🧼 **Skin/Weapon Changer**  
+  Apply weapon skins or gear changes instantly.
 
-- 🎨 **UI Customization**  
-  Custom overlays, crosshair, HUD modifications.
+- 🎮 **Custom Crosshair / FOV Changer**  
+  Change in-game field of view and crosshair style.
 
-- 🚫🎥 **Stream Proof**  
-  Hides all cheat visuals from streaming or recording software.
+- 🖥 **Stream Proof**  
+  Hides all visuals from recording and streaming software.
+
 
 Installation Guide
 ------------------
@@ -56,4 +57,3 @@ Disclaimer
 ----------
 
 This software is provided for educational and demonstration purposes only. The developers do not encourage cheating in online games and are not responsible for misuse.
-
